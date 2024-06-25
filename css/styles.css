@@ -1,0 +1,37 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.construction-alert {
+    background-color: #ffc107;
+    color: #212529;
+}
+
+header {
+    background: url('header-bg.jpg') no-repeat center center/cover;
+}
+
+.card img {
+    height: 200px;
+    object-fit: cover;
+}
+
+footer {
+    background-color: #343a40;
+}
+
+.social-icons a {
+    color: #343a40;
+    transition: color 0.3s;
+}
+
+.social-icons a:hover {
+    color: #007bff;
+}
+
+.navbar-brand img {
+    height: auto;
+    max-height: 150px;
+    width: auto;
+    max-width: 150px;
+}
